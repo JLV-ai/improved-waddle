@@ -1,0 +1,2 @@
+POST /auth
+{"username":"dcorea@ncoreg.com","password":"NCGdc1046"}
